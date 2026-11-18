@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Full dataset (use ci_dataset in GitHub Actions)
+/dataset/
